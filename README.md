@@ -111,8 +111,10 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  
+![snake gif](https://github.com/Nayab-Mirza/Nayab-Mirza/blob/output/github-snake-dark.svg)
 
-<img src="https://raw.githubusercontent.com/Nayab-Mirza/Nayab-Mirza/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
