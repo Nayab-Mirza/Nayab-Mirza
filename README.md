@@ -113,7 +113,7 @@
 
 <div align="center">
   
-![snake gif](https://github.com/Nayab-Mirza/Nayab-Mirza/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Nayab-Mirza/Nayab-Mirza/blob/output/github-snake.svg)
 
 </div>
 
